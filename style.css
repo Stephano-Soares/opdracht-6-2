@@ -1,0 +1,25 @@
+.container1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.container2{
+        width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.container3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.container4{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.block{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
